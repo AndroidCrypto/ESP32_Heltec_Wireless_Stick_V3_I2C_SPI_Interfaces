@@ -1,4 +1,4 @@
-# ESP32_Heltec_Wireless_Stick_V3_I2C_SPI_Interfaces
+# ESP32 Heltec Wireless Stick (Lite) V3 I2C and SPI Interfaces
 The sketches show how to use the I2C and SPI interfaces on the Heltec Wireless Stick (Lite) V3 devices.
 
 # ESP32 LilyGo T-Display Easily transform the development for your ESP32 project from Arduino to PlatformIO
