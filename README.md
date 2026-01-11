@@ -7,10 +7,11 @@ For the Lite variant of the device this is the tutorial "**How to connect a TFT 
 
 ## Sketches
 
-Heltec Wireless Stick V3 version: [Esp32_T_Display_Adafruit_Transition_v01](https://github.com/AndroidCrypto/ESP32_Transist_from_Arduino_to_PlatformIO/tree/main/Esp32_T_Display_Adafruit_Transition_v01)
+Heltec Wireless Stick V3 version: 
 
-Heltec Wireless Stick Lite V3 version: [Esp32_T-Display_Adafruit_Transition_v02](https://github.com/AndroidCrypto/ESP32_Transist_from_Arduino_to_PlatformIO/tree/main/Esp32_T-Display_Adafruit_Transistion_v02)
+Heltec Wireless Stick Lite V3 version: 
 
+![Image 1](./images/esp32_s3_heltec_ws_v3_01_600w.png)
 
 ## Resources for Heltec Devices
 
@@ -22,9 +23,11 @@ Heltec Wireless Stick Lite V3 version: [Esp32_T-Display_Adafruit_Transition_v02]
 
 - [Heltec Wirless Stick Lite V3 Schematic](https://resource.heltec.cn/download/Wireless_Stick_Lite_V3/HTIT-WSL_V3_Schematic_Diagram.pdf)
 
+- [Pinouts are in the images folder](./images)
+
 - [Heltec GitHub Support repository](https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series)
 
-![Image 1](./images/pioarduino_v01_600w.jpg)
+![Image 1](./images/esp32_s3_heltec_wsl_v3_01_600w.png)
 
 - ## Development Environment (Arduino)
 ````plaintext
