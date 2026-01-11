@@ -1,8 +1,6 @@
 # ESP32 Heltec Wireless Stick (Lite) V3 I2C and SPI Interfaces
 The sketches show how to use the I2C and SPI interfaces on the Heltec Wireless Stick (Lite) V3 devices.
 
-# ESP32 LilyGo T-Display Easily transform the development for your ESP32 project from Arduino to PlatformIO
-
 This is the accompanying repository for my article "**How to connect a TFT display (SPI interface) and a BME280 sensor (I2C interface) to a Heltec Wireless Stick V3**" available here: 
 
 For the Lite variant of the device this is the tutorial "**How to connect a TFT display (SPI interface) and a BME280 sensor (I2C interface) to a Heltec Wireless Stick Lite V3**" available here: 
@@ -14,21 +12,17 @@ Heltec Wireless Stick V3 version: [Esp32_T_Display_Adafruit_Transition_v01](http
 Heltec Wireless Stick Lite V3 version: [Esp32_T-Display_Adafruit_Transition_v02](https://github.com/AndroidCrypto/ESP32_Transist_from_Arduino_to_PlatformIO/tree/main/Esp32_T-Display_Adafruit_Transistion_v02)
 
 
-## Resources for PlatformIO
+## Resources for Heltec Devices
 
-- Installation notes: https://platformio.org/platformio-ide
+- [Heltec Wireless Stick V3 product page](https://heltec.org/project/wireless-stick-v3/)
 
-- Download Microsoft Visual Studio Code: https://code.visualstudio.com/
+- [Heltec Wireless Stick V3 Schematic](https://resource.heltec.cn/download/Wireless_Stick/Wireless_Stick_sch_V2.1.PDF)
 
-- Notes to install the PlatformIO extension: https://platformio.org/install/ide?install=vscode
+- [Heltec Wireless Stick Lite V3 product page](https://heltec.org/project/wireless-stick-lite-v2/)
 
-- Quick Start Guide: https://docs.platformio.org/page/ide/vscode.html#quick-start
+- [Heltec Wirless Stick Lite V3 Schematic](https://resource.heltec.cn/download/Wireless_Stick_Lite_V3/HTIT-WSL_V3_Schematic_Diagram.pdf)
 
-- PlatformIO Registry: https://registry.platformio.org/
-
-- ESP32 boards with pre-definedsettings: https://medium.com/r/?url=https%3A%2F%2Fgithub.com%2Fplatformio%2Fplatform-espressif32%2Ftree%2Fdevelop%2Fboards
-
-- ESP32 IDF version (pioarduino): https://github.com/platformio/platform-espressif32/releases
+- [Heltec GitHub Support repository](https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series)
 
 ![Image 1](./images/pioarduino_v01_600w.jpg)
 
