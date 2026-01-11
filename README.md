@@ -3,7 +3,7 @@ The sketches show how to use the I2C and SPI interfaces on the Heltec Wireless S
 
 This is the accompanying repository for my article "**How to connect a TFT display (SPI interface) and a BME280 sensor (I2C interface) to a Heltec Wireless Stick V3**" available here: https://medium.com/@androidcrypto/how-to-connect-a-tft-display-spi-interface-and-a-bme280-sensor-i2c-interface-to-a-heltec-48f0f770e0f8
 
-For the Lite variant of the device this is the tutorial "**How to connect a TFT display (SPI interface) and a BME280 sensor (I2C interface) to a Heltec Wireless Stick Lite V3**" available here: 
+For the Lite variant of the device this is the tutorial "**How to connect a TFT display (SPI interface) and a BME280 sensor (I2C interface) to a Heltec Wireless Stick Lite V3**" available here: https://medium.com/@androidcrypto/how-to-connect-a-tft-display-spi-interface-and-a-bme280-sensor-i2c-interface-to-a-heltec-246fecefef8a
 
 ## Sketches
 
