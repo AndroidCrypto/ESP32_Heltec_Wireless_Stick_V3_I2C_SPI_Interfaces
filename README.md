@@ -7,9 +7,9 @@ For the Lite variant of the device this is the tutorial "**How to connect a TFT 
 
 ## Sketches
 
-Heltec Wireless Stick V3 version: 
+[Heltec Wireless Stick V3 version](.Esp32_S3_Heltec_Wireless_Stick_V3_ST7789_BME280_v02)
 
-Heltec Wireless Stick Lite V3 version: 
+[Heltec Wireless Stick Lite V3 version](Esp32_S3_Heltec_Wireless_Stick_Lite_V3_ST7789_BME280_v02)
 
 ![Image 1](./images/esp32_s3_heltec_ws_v3_01_600w.png)
 
